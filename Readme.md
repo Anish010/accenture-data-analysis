@@ -8,7 +8,8 @@
   - [My Tasks](#my-tasks)
   - [Skills](#skills)
   - [Tools](#tools)
-  - [Acknowledgement](#Acknowledgement)
+  - [Acknowledgement](#acknowledgement)
+  - [Certificate](#certificate)
 - [Author](#author)
   - [Connect With Me](#connect-with-me)
   - [Github Stats](#github-stats)
@@ -119,8 +120,6 @@ expertise:
 
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 
-</br>
-
 ### Tools
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -130,6 +129,10 @@ expertise:
 
 - Accenture
 - Forage
+
+### Certificate
+
+![Certificate](./certificate_image.png)
 
 ## Author
 
