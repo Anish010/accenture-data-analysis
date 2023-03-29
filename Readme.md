@@ -1,4 +1,4 @@
-# RESTAURANT RATING APP
+# Data Analytics and Visualization Virtual Experience
 
 ## Table of Contents
 
