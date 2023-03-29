@@ -102,7 +102,7 @@ expertise:
 
 - Data Visualization - using python seaborn and matplotlib libraries and excel graph
 
-## **Task 4**
+**Task 4**
 
 - Presenting insights to the client - Recorded video presentation submitted
   </br>
